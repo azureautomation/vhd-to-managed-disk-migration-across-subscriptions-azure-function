@@ -1,0 +1,20 @@
+{
+    "Author": "paperclips",
+    "ContentSize": 20274,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/vhd-to-managed-disk-migration-across-subscriptions-azure-function/master/New-ManagedDisksFromVhd.ps1",
+    "DownloadCount": 502,
+    "Id": "Create-managed-disks-based-6e21a629",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 363,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-1-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This function can be used to create managed disks from an Azure Virtual Machine or a collection of Virtual Machines that is backed by legacy Vhd disks/blobs.The Vhd disks are retained after creation, and can be removed manually.The function has also been updated to perform cross",
+    "Title": "Vhd to Managed disk migration - Across subscriptions - Azure - Function",
+    "UpdatedDate": "2019-2-7T00:00:00",
+    "Url": "https://github.com/azureautomation/vhd-to-managed-disk-migration-across-subscriptions-azure-function",
+    "UserTags": "Microsoft Azure, Powershell, PowerShell Function"
+}
